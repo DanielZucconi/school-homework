@@ -9,4 +9,5 @@ while x == True:
   x = False
   
  else:
+  cars.apended(carbrand) 
   print("your list is cars", cars)
