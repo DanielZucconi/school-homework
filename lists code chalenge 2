@@ -6,7 +6,7 @@ while x == True:
 
  if carbrand == "x":
   print("exiting...")
-  end = False
+  x = False
   
  else:
   print("your list is cars", cars)
